@@ -1,0 +1,34 @@
+<package>
+    <id>com.ramenrepo.limelight</id>
+    <name>Limelight</name>
+    <version>1.5.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>13.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>Anemone</dependencies>
+    <descriptionlist>
+        <description>Colorful glyphs for anemone</description>
+        <longdescription><![CDATA[
+            · 400 icons<br/>
+            · Includes regular + glowing theme<br/>
+            · Small + large badges<br/>
+            · I recommend using a darker wallpaper<br/>
+            · Respring to fix the clock + badges<br/>
+            · DM me icon requests on Twitter<br/>
+            · Leave a tip if you enjoy it 😸<br/>
+        ]]></longdescription>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>limelight-sample.png</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>
